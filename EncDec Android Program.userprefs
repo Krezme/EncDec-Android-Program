@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Encription.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Encription.cs" Line="60" Column="31" />
+      <File FileName="Assets\Scripts\UIManager.cs" Line="25" Column="21" />
+      <File FileName="Assets\Scripts\UIManagerEncription.cs" Line="96" Column="81" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
